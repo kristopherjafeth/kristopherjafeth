@@ -1,4 +1,4 @@
-### Welcome to my Github Profile! 😊
+## Welcome to my Github Profile! 😊
 
 Full Stack Web Developer, My main programming languages/platforms are: Javascript, Node.js, React Js, PHP and Laravel.
 You can follow me in the next sites/platforms where I constantly publish new content 👍
